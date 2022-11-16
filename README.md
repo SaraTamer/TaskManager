@@ -7,4 +7,4 @@ Sorting by Name.
 
 Sorting by ID.
 
-Sorting by Usage
+Sorting by Memory Usage
